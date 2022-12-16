@@ -9,7 +9,7 @@ export default function Topbar({email}) {
       p={5}
     >
       <Avatar src="" marginEnd={3} />
-      <Heading size="lg">{email}</Heading>
+      <Heading size="sm">{email}</Heading>
     </Flex>
   )
 }
