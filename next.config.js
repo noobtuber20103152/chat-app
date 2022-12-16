@@ -5,7 +5,7 @@ module.exports = {
     MESSAGING_SENDER_ID: "58406844821",
     STORAGE_BUCKET: "chatapp-f9764.appspot.com",
     PROJECT_ID: "chatapp-f9764",
-    AUTH_DOMAIN: "https://chat-app-ten-pink.vercel.app/",
+    AUTH_DOMAIN: "chatapp-f9764.firebaseapp.com",
     API_KEY: "AIzaSyDiJpIroUmFxNUhotk66vMIS1_qHSq-_Tg",
   },
 };
